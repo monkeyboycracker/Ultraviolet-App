@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "bomboclat",
   "version": "1.0.0",
   "description": "Ultraviolet instance",
   "type": "module",
@@ -11,7 +11,7 @@
     "start": "node src/index.js"
   },
   "keywords": [
-    "proxy"
+    "bomboclat"
   ],
   "author": "",
   "license": "GPL-3.0-or-later",
